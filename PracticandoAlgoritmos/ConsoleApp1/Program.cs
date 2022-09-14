@@ -18,3 +18,11 @@ using PracticasAlgoritmos;
 ///
 //DitanciaHamming ditanciaHamming = new DitanciaHamming();
 //ditanciaHamming.Distancia();
+///4.- ContadorDePalabras
+///
+//ContadorDePalabras contadorDePalabras = new ContadorDePalabras();
+//contadorDePalabras.ContandoPalabras();
+///5.- ContarNumeros
+///
+ContarNumeros contarNumeros = new ContarNumeros();
+contarNumeros.NumeroContar();
